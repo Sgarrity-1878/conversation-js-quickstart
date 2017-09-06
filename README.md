@@ -29,7 +29,7 @@ Upcoming features will include:
 
 ## Participating in the Early Adopter program
 
-The Early Adopter (EA) program will take place for the next couple of months with a focus on the IP messaging capabilities. During this extended Beta program there will be frequent releases with new features and bug fixes based on your feedback. Changes will be communicated with each release outlying what changed. During the Beta it is possible (and probable) that there shall be breaking changes to the SDK and API but these will be explicitly communicated beforehand.
+The first preview will focus on the IP messaging capabilities. During this extended Beta program there will be frequent releases with new features and bug fixes based on your feedback. Changes will be communicated with each release outlying what changed. During the Beta it is possible (and probable) that there shall be breaking changes to the SDK and API but these will be explicitly communicated beforehand.
 
 If your team members require access to the docs or SDK repos contact [devrel@nexmo.com](mailto:devrel@nexmo.com).
 * Ask questions, provide feedback and report problems by [creating an issue](https://github.com/Nexmo/conversation-js-quickstart/issues/new)
@@ -48,12 +48,8 @@ You can also find the completed examples in the [examples directory](examples).
 
 ## SDK API Reference docs
 
-The [Nexmo Conversation JavaScript SDK API Reference docs](https://nexmo-developer-ea.herokuapp.com/sdk/conversation/js/) are available online. If you do not have access to the docs, please contact [devrel@nexmo.com](mailto:devrel@nexmo.com)
+The [Nexmo Conversation JavaScript SDK API Reference docs](https://ea.developer.nexmo.com/sdk/conversation/javascript/) are available online. If you do not have access to the docs, please contact [devrel@nexmo.com](mailto:devrel@nexmo.com)
 
 ## Additional Resources
 
 * [Nexmo CLI](https://github.com/nexmo/nexmo-cli)
-* [Nexmo Conversation iOS SDK](https://github.com/nexmo/conversation-ios-sdk)
-* [Nexmo Conversation iOS Quickstart](https://github.com/nexmo/conversation-ios-quickstart)
-* [Nexmo Conversation Android SDK](https://github.com/nexmo/conversation-android-sdk)
-* [Nexmo Conversation Android Quickstart](https://github.com/nexmo/conversation-android-quickstart)
